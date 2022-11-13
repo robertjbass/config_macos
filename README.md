@@ -2,8 +2,6 @@
 
 This is a collection of settings, references, and config files for software development on MacOS
 
-> temp
-
 ## Notes
 
 This folder is the single source of truth for the following files. The actual locations are symbolic links to this folder
