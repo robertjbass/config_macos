@@ -6,6 +6,8 @@ This is a collection of settings, references, and config files for software deve
 
 ### Terminal Toys
 
+Some fun stuff I have in my `.zshrc`
+
 ```bash
 brew install cowsay
 brew install fortune
