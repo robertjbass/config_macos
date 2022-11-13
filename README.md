@@ -69,4 +69,3 @@ Run this on new machine once VS Code is installed
 ```bash
 sh ./install_vsc_exts.sh
 ```
-# config_macos
