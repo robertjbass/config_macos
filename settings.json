@@ -1,23 +1,23 @@
 {
-    "workbench.colorTheme": "Winter is Coming (Dark Blue - No Italics)",
-    "editor.fontSize": 14,
-    "terminal.integrated.fontSize": 14,
-    "editor.fontFamily": "Fira Code",
-    "editor.fontLigatures": true,
-    "terminal.integrated.fontFamily": "'Fira Code', 'Hack Nerd Font'",
-    "terminal.external.osxExec": "iTerm.app",
-    "telemetry.telemetryLevel": "off",
-    "workbench.iconTheme": "vscode-icons",
-    "editor.inlineSuggest.enabled": true,
-    "typescript.suggest.paths": false,
-    "javascript.suggest.paths": false,
-    "npm-intellisense.importES6": true,
-    "npm-intellisense.importQuotes": "'",
-    "npm-intellisense.importLinebreak": ";\r\n",
-    "npm-intellisense.importDeclarationType": "const",
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "[javascript]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "editor.formatOnSave": true
+  "workbench.colorTheme": "Winter is Coming (Dark Blue - No Italics)",
+  "editor.fontSize": 14,
+  "terminal.integrated.fontSize": 14,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontFamily": "'Fira Code', 'Hack Nerd Font'",
+  "terminal.external.osxExec": "iTerm.app",
+  "telemetry.telemetryLevel": "off",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.inlineSuggest.enabled": true,
+  "typescript.suggest.paths": false,
+  "javascript.suggest.paths": false,
+  "npm-intellisense.importES6": true,
+  "npm-intellisense.importQuotes": "'",
+  "npm-intellisense.importLinebreak": ";\r\n",
+  "npm-intellisense.importDeclarationType": "const",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true
 }
