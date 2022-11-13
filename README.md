@@ -6,7 +6,7 @@ This is a collection of settings, references, and config files for software deve
 
 ### Terminal Toys
 
-Some fun stuff I have in my `.zshrc`
+Tux will read a fortune when a terminal is opened
 
 ```bash
 brew install cowsay
