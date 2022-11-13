@@ -2,9 +2,14 @@
 
 This is a collection of settings, references, and config files for software development on MacOS
 
-## TODOs
+## Notes
 
-[] Fix symlinks thing
+This folder is the single source of truth for the following files. The actual locations are symbolic links to this folder
+
+- settings.json (vs code settings)
+  `ln -s ~/config_macos/settings.json /Users/bob/Library/Application\ Support/Code/User`
+- .zshrc (`~`)
+  `ln -s ~/config_macos/.zshrc ~`
 
 ## Things to Install
 
@@ -54,9 +59,6 @@ run `p10k configure`
 - Keka - file archiver that I like
 
 ## VS Code Setup
-
-- .zshrc
-- settings.json (vs code settings `/Users/$USER/Library/Application Support/Code/User/settings.json`)
 
 ### Generate Extension Install Commands
 
