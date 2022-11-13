@@ -2,6 +2,10 @@
 
 This is a collection of settings, references, and config files for software development on MacOS
 
+## TODOs
+
+[] Fix symlinks thing
+
 ## Things to Install
 
 ### Terminal Toys
@@ -43,10 +47,11 @@ run `p10k configure`
 - VS Code Insiders
 - Cleanshot (paid replacement for mac screenshots)
 - Karabiner (`caps lock` -> `esc`)
-- Apptivate (`⌃` + `⌘ `+ `t` -> open iTerm2)
+- Apptivate (`⌃` + `⌘` + `t` -> open iTerm2)
 - Rectangle
 - AltTab (windows-style alt-tab for MacOS - change default `⌥` to `⌘`)
 - Raycast (free replacement for spotlight and alfred - set to `⌘` + `space`)
+- Keka - file archiver that I like
 
 ## VS Code Setup
 
