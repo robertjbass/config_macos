@@ -1,5 +1,6 @@
 {
   "workbench.colorTheme": "Winter is Coming (Dark Blue - No Italics)",
+  "workbench.iconTheme": "vscode-icons",
   "editor.fontSize": 14,
   "terminal.integrated.fontSize": 14,
   "editor.fontFamily": "Fira Code",
@@ -7,17 +8,15 @@
   "terminal.integrated.fontFamily": "'Fira Code', 'Hack Nerd Font'",
   "terminal.external.osxExec": "iTerm.app",
   "telemetry.telemetryLevel": "off",
-  "workbench.iconTheme": "vscode-icons",
   "editor.inlineSuggest.enabled": true,
-  "typescript.suggest.paths": false,
-  "javascript.suggest.paths": false,
+  "typescript.suggest.paths": true,
+  "javascript.suggest.paths": true,
   "npm-intellisense.importES6": true,
   "npm-intellisense.importQuotes": "'",
   "npm-intellisense.importLinebreak": ";\r\n",
   "npm-intellisense.importDeclarationType": "const",
-  "[json]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
+  "editor.semanticHighlighting.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -40,7 +39,14 @@
   "typescript.suggest.autoImports": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "source.organizeImports": true,
   "files.trimTrailingWhitespace": true,
-  "editor.bracketPairColorization.enabled": true
+  "editor.bracketPairColorization.enabled": true,
+  "emmet.includeLanguages": {
+    "vue": "html",
+    "vue-html": "html",
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+  "volar.updateImportsOnFileMove.enabled": false,
+  "volar.autoCompleteRefs": true
 }
