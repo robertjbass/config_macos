@@ -37,6 +37,9 @@ function todev()
   fi
 }
 
+# Python
+export PATH="/Users/bob/Library/Python/3.9/bin:"$PATH
+
 # Alias
 alias o="open ."
 alias codei="code-insiders"
