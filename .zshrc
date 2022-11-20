@@ -16,7 +16,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 
 # Plugins
 plugins=(
-  git 
+  git
   zsh-autosuggestions
 )
 
@@ -40,7 +40,8 @@ function todev()
 # Alias
 alias o="open ."
 alias codei="code-insiders"
-  
+alias python="python3"
+
 source $ZSH/oh-my-zsh.sh
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
