@@ -49,7 +49,10 @@
   },
   "volar.updateImportsOnFileMove.enabled": false,
   "volar.autoCompleteRefs": true,
+  "python.linting.mypyEnabled": true,
   "[python]": {
     "editor.defaultFormatter": "ms-python.python"
-  }
+  },
+  "python.analysis.typeCheckingMode": "basic",
+  "python.formatting.provider": "yapf"
 }
