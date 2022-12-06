@@ -63,7 +63,7 @@
                   }
                 ],
                 "from": {
-                  "key_code": "quote",
+                  "key_code": "semicolon",
                   "modifiers": {
                     "optional": ["any"]
                   }

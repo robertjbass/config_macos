@@ -54,5 +54,8 @@
     "editor.defaultFormatter": "ms-python.python"
   },
   "python.analysis.typeCheckingMode": "basic",
-  "python.formatting.provider": "yapf"
+  "python.formatting.provider": "yapf",
+  "editor.tabSize": 2,
+  "css.lint.unknownAtRules": "ignore",
+  "workbench.startupEditor": "none"
 }
