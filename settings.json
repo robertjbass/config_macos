@@ -29,6 +29,9 @@
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  },
   "editor.formatOnSave": true,
   "prettier.printWidth": 100,
   "editor.linkedEditing": true,
@@ -57,5 +60,7 @@
   "python.formatting.provider": "yapf",
   "editor.tabSize": 2,
   "css.lint.unknownAtRules": "ignore",
-  "workbench.startupEditor": "none"
+  "workbench.startupEditor": "none",
+  "go.toolsManagement.autoUpdate": true,
+  "volar.inlayHints.eventArgumentInInlineHandlers": false
 }
